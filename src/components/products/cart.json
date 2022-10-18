@@ -2,7 +2,7 @@
   "collectionName": "components_products_carts",
   "info": {
     "displayName": "Cart",
-    "icon": "coins"
+    "description": ""
   },
   "options": {},
   "attributes": {
